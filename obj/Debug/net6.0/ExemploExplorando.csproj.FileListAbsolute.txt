@@ -1,0 +1,15 @@
+C:\workspace\ws-csharp\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.exe
+C:\workspace\ws-csharp\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.deps.json
+C:\workspace\ws-csharp\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.runtimeconfig.json
+C:\workspace\ws-csharp\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.dll
+C:\workspace\ws-csharp\ExemploExplorando\bin\Debug\net6.0\ExemploExplorando.pdb
+C:\workspace\ws-csharp\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.csproj.AssemblyReference.cache
+C:\workspace\ws-csharp\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\ws-csharp\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.AssemblyInfoInputs.cache
+C:\workspace\ws-csharp\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.AssemblyInfo.cs
+C:\workspace\ws-csharp\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.csproj.CoreCompileInputs.cache
+C:\workspace\ws-csharp\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.dll
+C:\workspace\ws-csharp\ExemploExplorando\obj\Debug\net6.0\refint\ExemploExplorando.dll
+C:\workspace\ws-csharp\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.pdb
+C:\workspace\ws-csharp\ExemploExplorando\obj\Debug\net6.0\ExemploExplorando.genruntimeconfig.cache
+C:\workspace\ws-csharp\ExemploExplorando\obj\Debug\net6.0\ref\ExemploExplorando.dll
