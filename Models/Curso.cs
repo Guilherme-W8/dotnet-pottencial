@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace ExemploExplorando.Models
 {
-    public class Curso
+    public class Curso 
     {
         public string NomeDoCurso{ get; set; }
         public List<Pessoa> Alunos { get; set; }

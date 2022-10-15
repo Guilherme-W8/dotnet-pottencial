@@ -10,4 +10,6 @@ cursoDeIngles.Alunos = new List<Pessoa>();
 cursoDeIngles.AdicionarAluno(p1);
 cursoDeIngles.AdicionarAluno(p2);
 
+Console.WriteLine($"Quantidade de alunos: {cursoDeIngles.ObterQuantidadeDeAlunos()}");
+
 cursoDeIngles.ListarAlunos();
